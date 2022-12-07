@@ -1,0 +1,1 @@
+# extract-text-from-a-licence-image-for-kyc-verification-and-output-to-a-csv
